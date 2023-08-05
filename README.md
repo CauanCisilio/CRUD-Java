@@ -28,7 +28,8 @@ CREATE TABLE usuarios                        <br>
    usuario VARCHAR(100) NOT NULL,            <br>
    senha VARCHAR(20)  NOT NULL               <br>
 )                                            <br>
-Obs: faça a inserção do usuário através da SGDB do PostgreSQL
+
+<h3>Obs: faça a inserção do usuário através da SGDB do PostgreSQL</h3>
 
 INSERT INTO usuarios(usuario,senha) VALUES ('seuUsuarioAqui','SuaSenha');
 
