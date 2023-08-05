@@ -11,12 +11,12 @@ Aplicação para cadastro e administração de funcionários de uma empresa com 
 #Execute a Query SQL
 
 
-CREATE TABLE funcionarios(
-  matricula integer NOT NULL,
-  nome VARCHAR(100)  NOT NULL,
-  cargo VARCHAR(100)  NOT NULL,
-  salario numeric(10,2)NOT NULL,
-  CONSTRAINT pk_cod PRIMARY KEY (matricula)
+CREATE TABLE funcionarios(                  <br>
+  matricula integer NOT NULL,               <br>
+  nome VARCHAR(100)  NOT NULL,              <br>
+  cargo VARCHAR(100)  NOT NULL,             <br>
+  salario numeric(10,2)NOT NULL,            <br>
+  CONSTRAINT pk_cod PRIMARY KEY (matricula) <br>
 )
 
 
