@@ -22,12 +22,12 @@ CREATE TABLE funcionarios(                  <br>
 
 #Execute a Query SQL para usuário do sistema
 
-CREATE TABLE usuarios
-(
-   id SERIAL PRIMARY KEY,
-   usuario VARCHAR(100) NOT NULL,
-   senha VARCHAR(20)  NOT NULL
-)
+CREATE TABLE usuarios                        <br>
+(                                            <br>
+   id SERIAL PRIMARY KEY,                    <br>
+   usuario VARCHAR(100) NOT NULL,            <br>
+   senha VARCHAR(20)  NOT NULL               <br>
+)                                            <br>
 Obs: faça a inserção do usuário através da SGDB do PostgreSQL
 
 INSERT INTO usuarios(usuario,senha) VALUES ('seuUsuarioAqui','SuaSenha');
