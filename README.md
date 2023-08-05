@@ -2,13 +2,13 @@
 
 Aplicação para cadastro e administração de funcionários de uma empresa com interface gráfica **swing**
 
-#Necessário
+<h2>Necessário</h2>
 - Java 8
 - PostgreSQL
 - JDBC para Java 8/ **https://jdbc.postgresql.org/download/**
 - Criar a base de dados **funcionarios**
 
-#Execute a Query SQL
+<h2>Execute a Query SQL</h2>
 
 
 CREATE TABLE funcionarios(                  <br>
