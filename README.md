@@ -15,7 +15,7 @@ CREATE TABLE funcionarios(
   matricula integer NOT NULL,
   nome VARCHAR(100)  NOT NULL,
   cargo VARCHAR(100)  NOT NULL,
-  salario numeric(10,2),
+  salario numeric(10,2)NOT NULL,
   CONSTRAINT pk_cod PRIMARY KEY (matricula)
 )
 
