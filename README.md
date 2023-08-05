@@ -16,8 +16,8 @@ CREATE TABLE funcionarios(
   nome VARCHAR(100)  NOT NULL,
   cargo VARCHAR(100)  NOT NULL,
   salario numeric(10,2),
-  CONSTRAINT pk_cod PRIMARY KEY (matricula) -- definindo chave primaria, pois a matricula deve ser de identificação unica por funcionário
-  )
+  CONSTRAINT pk_cod PRIMARY KEY (matricula)
+)
 
 
 #Execute a Query SQL para usuário do sistema
