@@ -1,4 +1,4 @@
-![image](https://github.com/CauanCisilio/CRUD-Java/assets/110429744/858813c3-1ea5-4a81-b929-33a418c63206)# CRUD-Java
+# CRUD-Java
 
 Aplicação para cadastro e administração de funcionários de uma empresa com interface gráfica **swing**
 
@@ -9,4 +9,12 @@ Aplicação para cadastro e administração de funcionários de uma empresa com 
 - JDBC para Java 8/ **https://jdbc.postgresql.org/download/**
 
 
-![image](https://github.com/CauanCisilio/CRUD-Java/assets/110429744/1ea22a76-661f-4146-88b9-7dc8f71d406b)
+#Tela de Login 
+![image](https://github.com/CauanCisilio/CRUD-Java/assets/110429744/fa4b522f-9632-4dcb-98be-5b2f5c510c53)
+
+#Tela de cadastro / atualização de cadastro do funcionário / Exclusão de funcionários
+
+![image](https://github.com/CauanCisilio/CRUD-Java/assets/110429744/bdbbf1a1-c38b-4e78-80f4-8f7f5cac1c0d)
+
+#Listagem de funcionários e busca individual
+![image](https://github.com/CauanCisilio/CRUD-Java/assets/110429744/a1aa3e0d-7eb6-492b-b8a0-030689178914)
