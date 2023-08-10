@@ -5,7 +5,7 @@ Aplicação para cadastro e administração de funcionários de uma empresa com 
 <h2>Necessário</h2>
 - Java 8 <br>
 - PostgreSQL <br>
-- JDBC para Java 8/ https://jdbc.postgresql.org/download/ <br>
+- JDBC https://jdbc.postgresql.org/download/ <br>
 - Criar a base de dados **funcionarios** <br>
 
 <h2>Execute a Query SQL</h2>
