@@ -1,6 +1,6 @@
 # CRUD-Java
 
-Aplicação para cadastro e administração de funcionários de uma empresa com interface gráfica **swing**
+Aplicação para cadastro de funcionários de uma empresa com interface gráfica **swing**
 
 <h2>Necessário</h2>
 - Java 8 <br>
@@ -29,7 +29,7 @@ CREATE TABLE usuarios                        <br>
    senha VARCHAR(20)  NOT NULL               <br>
 )                                            <br>
 
-<h3>Obs: faça a inserção do usuário através da SGDB do PostgreSQL</h3>
+<h3>Faça a inserção do usuário através da SGDB PostgreSQL</h3>
 
 INSERT INTO usuarios(usuario,senha) VALUES ('seuUsuarioAqui','SuaSenha');
 
